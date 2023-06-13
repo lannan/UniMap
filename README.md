@@ -1,4 +1,4 @@
-# UnsuperMap
+# UniMap
 
 This repository was created for the following paper presented as Usenix Security'23.
 
