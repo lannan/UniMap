@@ -6,4 +6,4 @@ This repository was created for the following paper presented as Usenix Security
 
 Junzhe Wang (George Mason University), Matthew Sharp (University of South Carolina), Chuxiong Wu (George Mason University), Qiang Zeng (George Mason University), Lannan Luo (George Mason University).
 
-The source code and trained model will be released soon.
+The source code and trained model will be released in August, 2024. Thanks for your patience.
