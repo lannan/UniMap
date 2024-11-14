@@ -12,7 +12,7 @@ Main libraries:
 - [PyTorch](https://pytorch.org/) （for the downstream tasks)
 
 ## 1. Generate CFG
-We use IDAPro to generate the Control Flow Graphs. The script can be found [here](gen_linum.py). 
+We use IDAPro to generate the Control Flow Graphs. The script can be found [here](./cfg/gen_linum.py). 
 
 
 
